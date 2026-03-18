@@ -7,7 +7,7 @@ metadata:
     emoji: "📝"
     requires:
       bins: ["node"]
-    homepage: https://github.com/liuxuda/openclaw-auto-daily-report
+    homepage: https://github.com/liuxuda/auto-daily-report
 ---
 
 # Auto Daily Report - 智能日报生成器
