@@ -1,0 +1,32 @@
+{
+  "name": "openclaw-auto-daily-report",
+  "version": "1.0.0",
+  "description": "📝 OpenClaw 自动日报生成器 - 基于Git提交记录智能生成日报",
+  "main": "index.js",
+  "bin": {
+    "auto-daily-report": "./index.js",
+    "dr": "./index.js"
+  },
+  "scripts": {
+    "test": "node index.js --today",
+    "readme": "cat README.md"
+  },
+  "keywords": [
+    "openclaw",
+    "daily-report",
+    "git",
+    "report",
+    "自动化",
+    "日报"
+  ],
+  "author": "叨叨 <daodao@openclaw.ai>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luence/openclaw-auto-daily-report.git"
+  },
+  "homepage": "https://github.com/luence/openclaw-auto-daily-report",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
