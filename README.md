@@ -11,18 +11,18 @@
 
 ## 🎁 解决痛点
 
-| 痛点 | 解决方案 |
-|------|---------|
-| 忘记今天做了什么 | Git 提交自动记录 |
-| 写日报时间太长 | 5 秒生成完成 |
-| 格式不规范 | 统一模板输出 |
-| 多个项目管理 | 支持任意 Git 目录 |
+| 痛点             | 解决方案          |
+| ---------------- | ----------------- |
+| 忘记今天做了什么 | Git 提交自动记录  |
+| 写日报时间太长   | 5 秒生成完成      |
+| 格式不规范       | 统一模板输出      |
+| 多个项目管理     | 支持任意 Git 目录 |
 
 ## 📦 安装
 
 1. 克隆到本地：
 ```bash
-git clone https://github.com/luence/openclaw-auto-daily-report.git ~/.openclaw/skills/auto-daily-report
+git clone https://github.com/liuxuda/openclaw-auto-daily-report.git ~/.openclaw/skills/auto-daily-report
 ```
 
 2. 在项目根目录创建配置文件 `.daily-report.json`:
@@ -116,7 +116,7 @@ MIT License - 个人和商业使用均可
 
 ## 🤝 支持与反馈
 
-- GitHub Issues: https://github.com/luence/openclaw-auto-daily-report/issues
+- GitHub Issues: https://github.com/liuxuda/openclaw-auto-daily-report/issues
 - 邮箱: daodao@openclaw.ai
 
 ---
