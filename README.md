@@ -116,7 +116,7 @@ MIT License - 个人和商业使用均可
 
 ## 🤝 支持与反馈
 
-- GitHub Issues: https://github.com/liuxuda/openclaw-auto-daily-report/issues
+- GitHub Issues: https://github.com/liuxuda/auto-daily-report/issues
 - 邮箱: daodao@openclaw.ai
 
 ---
