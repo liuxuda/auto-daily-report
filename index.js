@@ -34,7 +34,9 @@ function getConfig() {
 }
 
 function filterCommits(commits, patterns) {
+  if (!patterns || !Array.isArray(patterns)) return commits;
   return commits.filter(commit => {
+    if (!commit || !commit.message) return false;
     return !patterns.some(pattern => commit.message.includes(pattern));
   });
 }
